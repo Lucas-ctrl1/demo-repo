@@ -1,3 +1,3 @@
 # Demo
 
-Demo Video Tutorial for Git & GitHub
+Demo Video Tutorial for Git & GitHub!
